@@ -1,0 +1,6 @@
+{
+  "name": "Smart PC Afzal - Windows PC Cleaner & Optimizer",
+  "description": "Professional native Windows PC cleaner, temporary file remover, disk space analyzer, and system maintenance dashboard with offline standalone installer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
